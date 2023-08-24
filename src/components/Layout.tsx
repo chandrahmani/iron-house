@@ -13,7 +13,7 @@ const Layout = ({ children }: { children: ReactNode }) => {
         <div className="mx-auto  max-w-screen-xl  lg:py-2">
           <div className="md:flex md:justify-between">
             <div className="mr-2 self-center text-2xl font-semibold whitespace-nowrap text-gray-800 text-center">
-              CTcab
+              IRON HOUSE
             </div>
 
             <div className="w-full mx-auto max-w-screen-xl p-4 md:flex md:items-center md:justify-around">

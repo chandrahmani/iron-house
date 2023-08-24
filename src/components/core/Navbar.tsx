@@ -31,13 +31,6 @@ export default function Navbar() {
           <div className="flex lg:flex-1">
             <Link href="/" className="-m-1.5 p-1.5">
               <span className="sr-only">Iron House</span>
-              <Image
-                className="w-60"
-                src="/ctcab-logo.png"
-                alt=""
-                width={640}
-                height={400}
-              />
             </Link>
           </div>
           <div className="flex lg:hidden">
