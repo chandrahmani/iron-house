@@ -10,16 +10,9 @@ export default function LandingBanner() {
           <div className="relative overflow-hidden flex items-center  px-6 pt-13  sm:rounded-3xl sm:px-16 md:pt-24 lg:flex lg:gap-x-20 lg:px-16 lg:pt-0">
             <div className="mx-auto max-w-md flex flex-col align-middle text-center lg:mx-0 lg:flex-auto lg:py-10 lg:text-left">
               <h2 className="text-3xl font-bold tracking-tight  sm:text-4xl">
-                Taxi services in Kashmir
+                IRONI HOUSE GYM | UNISEX
               </h2>
-              <p className="mt-6 text-lg leading-8 text-gray-400">
-                We are providing Cabs, Cars for Business, leisure, exhibitions,
-                events, conferences and personal travel. We have one of the most
-                impressive networks across India in providing all Passenger,
-                Luxurious, and Premium Vehicles on hire. Our fleet starts from
-                passenger level Cars, Executive Level Cars, Luxury Cars, Motor
-                Home, Mini Coaches and Volvo Coaches.
-              </p>
+              <p className="mt-6 text-lg leading-8 text-gray-400"></p>
               <div className="mt-10 flex items-center justify-center gap-x-6 lg:justify-start">
                 <Button
                   size="large"
@@ -36,10 +29,10 @@ export default function LandingBanner() {
                   className="btn primary"
                   variant="secondary"
                   onClick={() => {
-                    push("/cabs");
+                    push("");
                   }}
                 >
-                  Book a Taxi
+                  Join Now
                 </Button>
               </div>
             </div>

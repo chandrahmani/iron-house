@@ -25,17 +25,10 @@ export default function ProductOverviews() {
               CTCab
             </a>
             <h1 className="text-gray-700 dark:text-white text-2xl md:text-3xl font-extrabold mb-2">
-              We have our own Fleet of Sedan, Innova, Innova Crysta, Tempo
-              Traveller.
+              For Your Health
             </h1>
             <p className="text-lg font-normal text-gray-500 dark:text-gray-400 mb-6">
-              WE ARE PROVIDING CAB AND TAXI SERVICES ROUND THE CLOCK (24 X 7)
-              SERVICES TO OUR GUESTS IN AREAS OF DELHI, AMRITSAR, PUNJAB AND
-              HIMACHAL, UTTARAKHAND, JAMMU AND KASHMIR, KATRA, CHANDIGARH ETC.
-              WE ARE SPECIALIZED IN GIVING PERSONALIZED AND PROFESSIONAL
-              SERVICES SINCE 2014 WITH EXPERIENCED, DEDICATED STAFF & WELL
-              MANNERED, WELL DRESSED AND COURTEOUS DRIVERS. "INNOVATIVE SERVICES
-              ALWAYS" IS OUR MOTTO.
+              You've got a (WORKOUT) friend in me the social
             </p>
           </div>
 
@@ -43,8 +36,8 @@ export default function ProductOverviews() {
             <div className="bg-primary dark:bg-gray-800 border border-gray-200 dark:border-gray-700 rounded-lg ">
               <div className="aspect-h-2 aspect-w-3 overflow-hidden ">
                 <img
-                  src={image.images[4].src}
-                  alt={image.images[4].alt}
+                  src="/image/banner-1"
+                  alt=""
                   className="h-full w-full object-cover object-center"
                 />
               </div>
@@ -80,8 +73,8 @@ export default function ProductOverviews() {
             <div className="bg-primary dark:bg-gray-800 border border-gray-200 dark:border-gray-700 rounded-lg ">
               <div className="aspect-h-2 aspect-w-3 overflow-hidden ">
                 <img
-                  src={image.images[1].src}
-                  alt={image.images[1].alt}
+                  src="#"
+                  alt=""
                   className="h-full w-full object-cover object-center"
                 />
               </div>
@@ -121,31 +114,31 @@ export default function ProductOverviews() {
         <div className="mx-auto my-4  sm:px-6 lg:grid lg:max-w-9xl lg:grid-cols-3 lg:gap-x-5 lg:px-2">
           <div className="aspect-h-4 aspect-w-3 hidden overflow-hidden rounded-lg lg:block">
             <img
-              src={image.images[5].src}
-              alt={image.images[5].alt}
+              src="#"
+              alt=""
               className="h-full w-full object-cover object-center"
             />
           </div>
           <div className="hidden lg:grid lg:grid-cols-1 lg:gap-y-8">
             <div className="aspect-h-2 aspect-w-3 overflow-hidden rounded-lg">
               <img
-                src={image.images[1].src}
-                alt={image.images[1].alt}
+                src="#"
+                alt=""
                 className="h-full w-full object-cover object-center"
               />
             </div>
             <div className="aspect-h-2 aspect-w-3 overflow-hidden rounded-lg">
               <img
-                src={image.images[4].src}
-                alt={image.images[4].alt}
+                src="#"
+                alt=""
                 className="h-full w-full object-cover object-center"
               />
             </div>
           </div>
           <div className="aspect-h-5 aspect-w-4 lg:aspect-h-4 lg:aspect-w-3 sm:overflow-hidden sm:rounded-lg">
             <img
-              src={image.images[3].src}
-              alt={image.images[3].alt}
+              src="#"
+              alt=""
               className="h-full w-full object-cover object-center"
             />
           </div>

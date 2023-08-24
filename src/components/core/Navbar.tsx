@@ -13,18 +13,13 @@ export default function Navbar() {
         <div className="ribbon-container">
           <ul className="flex justify-end p-2 bg-black flex-wrap items-center mb-6 text-sm font-medium text-gray-100 sm:mb-0 dark:text-gray-400">
             <li>
-              <Link href="#" className="mr-4 hover:underline md:mr-6 ">
-                Email : hellotravelsindia@gmail.com
-              </Link>
-            </li>
-            <li>
               <a href="#" className="mr-4 hover:underline md:mr-6">
-                Phone No : 9906755156
+                Phone No : 9760006464
               </a>
             </li>
             <li>
               <a href="#" className="mr-4 hover:underline md:mr-6 ">
-                Phone No : 7006036459
+                Phone No : 9773351675
               </a>
             </li>
           </ul>
@@ -35,7 +30,7 @@ export default function Navbar() {
         >
           <div className="flex lg:flex-1">
             <Link href="/" className="-m-1.5 p-1.5">
-              <span className="sr-only">CTCab</span>
+              <span className="sr-only">Iron House</span>
               <Image
                 className="w-60"
                 src="/ctcab-logo.png"

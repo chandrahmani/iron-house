@@ -158,20 +158,9 @@ const aboutUs = () => {
                 Rajasthan Punjab Chandigarh Amritsar Etc
               </p>
               <p className="mt-6 text-lg leading-8 text-gray-400 lg:text-left">
-                Our Company A Sublime Destination Management Company of
-                visionary Mr Mudasir Farooq (Managing Director) With strong
-                business acumen extensive experience in the tourism industry
-                floated under the name and style of "Hello Travel India" And
-                ctcab.in in Srinagar Kashmir & Ladakh emphasizing innovation and
-                quality service. Hello Travel India. And ctcab.in is registered
-                with "Directorate of Tourism J&K" and ISO : 2014 Certified
-                Company. We believe in presenting Kashmir & Ladakh in a way that
-                is quite unique, unexplored, and unhindered. We want to show you
-                the possibilities that are immense and unending. We provide you
-                excellent tour packages as well as competitive rates for
-                hospitality services in Jammu, Kashmir and Ladakh."Hello Travel
-                India" And ctcab.in is a te…pulvinar et feugiat blandit at. In
-                mi viverra elit nunc.
+                Our ultimate tier membership gives you the best recovery
+                equipment in Port Saint Lucie. The hydromassage and Cryo chairs
+                alone are worth the becoming a member.
               </p>
             </div>
             <div className="mx-auto mt-16 max-w-2xl sm:mt-20 lg:mt-24 lg:max-w-4xl">

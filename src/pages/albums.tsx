@@ -3,7 +3,7 @@ import SubHeader from "@/components/subHeader/SubHeader";
 const albums = () => {
   return (
     <>
-      <SubHeader title="Guest Photos" />
+      <SubHeader title="" />
       <div className="p-4">
         <div className="grid grid-cols-2 md:grid-cols-4 gap-4 ">
           <div className="grid gap-4">
