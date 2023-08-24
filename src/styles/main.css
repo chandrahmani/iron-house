@@ -1,0 +1,25 @@
+#ctcab .btn {
+}
+
+#ctcab .btn.primary {
+	background-color: var(--color-primary);
+	color: var(--color-black);
+}
+
+#ctcab .btn.secondary {
+	background-color: var(--color-secondary);
+	color: var(--color-black);
+}
+
+#ctcab .ribbon-container ul {
+	background-color: var(--color-primary);
+	color: var(--color-black);
+}
+
+#ctcab .content-panel {
+	min-height: 80vh;
+}
+
+#ctcab .bg-primary {
+	background-color: var(--color-contrast);
+}

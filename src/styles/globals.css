@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+	--color-primary: #e9b384;
+	--color-secondary: #a1ccd1;
+	--color-contrast: #f4f2de;
+	--color-highlight: #7c9d96;
+	--color-black: #000;
+}
+
+@import url(./main.css);
