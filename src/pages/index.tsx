@@ -8,14 +8,9 @@ export default function Home() {
   return (
     <>
       <Head>
-        <title>
-          CTCab.in | Taxi services | Luxury Car Fleet | Coaches & Volvos |
-          Inbound & Outbound Tours International Air Ticketing | Domestic Air
-          Ticketing | Holiday & Cruise Packages | Hotel Reservation | Tour
-          Guides | School/College Tours
-        </title>
+        <title>iron house</title>
       </Head>
-      <SubHeader title="Welcome To Kashmir Cab Services " />
+      <SubHeader title="Welcome To IRON HOUSE " />
       <ProductOverviews />
       <LandingBanner />
     </>
