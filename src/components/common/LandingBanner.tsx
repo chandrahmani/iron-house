@@ -39,7 +39,7 @@ export default function LandingBanner() {
             <div className="relative lg:mt-8">
               <img
                 className="rounded-md bg-white/5 ring-1 ring-white/10"
-                src="/images/banner-11.jpg"
+                src="/images/banner-10.jpg"
                 alt="App screenshot"
                 width="100%"
                 height="100%"

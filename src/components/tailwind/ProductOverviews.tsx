@@ -129,7 +129,7 @@ export default function ProductOverviews() {
             </div>
             <div className="aspect-h-2 aspect-w-3 overflow-hidden rounded-lg">
               <img
-                src="/images/banner-11.jpg"
+                src="/images/banner-10.jpg"
                 alt=""
                 className="h-full w-full object-cover object-center"
               />
