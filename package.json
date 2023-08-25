@@ -3,8 +3,8 @@
   "version": "1.0.0",
   "private": true,
   "author": {
-    "name": "Hidayt Rahman",
-    "email": "hidaytrahman@gmail.com"
+    "name": "Chand Rahmani",
+    "email": "chandrahmani254@gmail.com"
   },
   "scripts": {
     "dev": "next dev",
