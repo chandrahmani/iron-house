@@ -1,6 +1,6 @@
 import LandingBanner from "@/components/common/LandingBanner";
 import SubHeader from "@/components/subHeader/SubHeader";
-import ProductOverviews from "@/components/tailwind/ProductOverviews";
+import ProductOverviews from "@/components/product/ProductOverviews";
 
 import Head from "next/head";
 

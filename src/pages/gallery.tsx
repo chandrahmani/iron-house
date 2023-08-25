@@ -3,51 +3,28 @@ import SubHeader from "@/components/subHeader/SubHeader";
 const albums = () => {
   return (
     <>
-      <SubHeader title="" />
+      <SubHeader title="Gallery" />
       <div className="p-4">
         <div className="grid grid-cols-2 md:grid-cols-4 gap-4 ">
           <div className="grid gap-4">
             <div>
               <img
                 className="h-auto max-w-full rounded-lg"
-                src="/images/guest-1.jpg"
+                src="/images/banner-5.jpg"
                 alt=""
               />
             </div>
             <div>
               <img
                 className="h-auto max-w-full rounded-lg"
-                src="https://4.imimg.com/data4/YE/HA/MY-14311280/innova-ac-500x500.jpg"
+                src="/images/banner-4.jpg"
                 alt=""
               />
             </div>
             <div>
               <img
                 className="h-auto max-w-full rounded-lg"
-                src="/images/guest-1.jpg"
-                alt=""
-              />
-            </div>
-          </div>
-          <div className="grid gap-4">
-            <div>
-              <img
-                className="h-auto max-w-full rounded-lg"
-                src="/images/car_banner_6.jpg"
-                alt=""
-              />
-            </div>
-            <div>
-              <img
-                className="h-auto max-w-full rounded-lg"
-                src="/images/guest-1.jpg"
-                alt=""
-              />
-            </div>
-            <div>
-              <img
-                className="h-auto max-w-full rounded-lg"
-                src="https://promos.makemytrip.com/appfest/xxhdpi/ChicletBG_OSCabOffer_28Jan_BG.jpg"
+                src="/images/banner-7.jpg"
                 alt=""
               />
             </div>
@@ -56,14 +33,37 @@ const albums = () => {
             <div>
               <img
                 className="h-auto max-w-full rounded-lg"
-                src="https://5.imimg.com/data5/SELLER/Default/2022/5/EW/AH/EB/103043523/innova-car-rental-in-kashmir.jpg"
+                src="/images/banner-3.jpg"
                 alt=""
               />
             </div>
             <div>
               <img
                 className="h-auto max-w-full rounded-lg"
-                src="/images/guest-1.jpg"
+                src="/images/banner-9.jpg"
+                alt=""
+              />
+            </div>
+            <div>
+              <img
+                className="h-auto max-w-full rounded-lg"
+                src="/images/banner-10.jpg"
+                alt=""
+              />
+            </div>
+          </div>
+          <div className="grid gap-4">
+            <div>
+              <img
+                className="h-auto max-w-full rounded-lg"
+                src="/images/banner-2.jpg"
+                alt=""
+              />
+            </div>
+            <div>
+              <img
+                className="h-auto max-w-full rounded-lg"
+                src="/images/banner-12.jpg"
                 alt=""
               />
             </div>
@@ -75,21 +75,21 @@ const albums = () => {
             <div>
               <img
                 className="h-auto max-w-full rounded-lg"
-                src="/images/guest-1.jpg"
+                src="/images/banner-15.jpg"
                 alt=""
               />
             </div>
             <div>
               <img
                 className="h-auto max-w-full rounded-lg"
-                src="https://www.royalenfield.com/content/dam/royal-enfield/united-kingdom/motorcycles/himalayan/colours/new-colors/studio-shots/granite-black/side-view.png"
+                src="/image/banner-13.jpg"
                 alt=""
               />
             </div>
             <div>
               <img
                 className="h-auto max-w-full rounded-lg"
-                src="/images/guest-1.jpg"
+                src="/images/banner-1.jpg"
                 alt=""
               />
             </div>

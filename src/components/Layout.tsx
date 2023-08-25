@@ -4,7 +4,7 @@ import Navbar from "./core/Navbar";
 
 const Layout = ({ children }: { children: ReactNode }) => {
   return (
-    <div id="ctcab">
+    <div id="ironHouse">
       <Navbar />
 
       <main className="content-panel">{children}</main>

@@ -10,7 +10,7 @@ export default function LandingBanner() {
           <div className="relative overflow-hidden flex items-center  px-6 pt-13  sm:rounded-3xl sm:px-16 md:pt-24 lg:flex lg:gap-x-20 lg:px-16 lg:pt-0">
             <div className="mx-auto max-w-md flex flex-col align-middle text-center lg:mx-0 lg:flex-auto lg:py-10 lg:text-left">
               <h2 className="text-3xl font-bold tracking-tight  sm:text-4xl">
-                IRONI HOUSE GYM | UNISEX
+                IRONI HOUSE GYM UNISEX
               </h2>
               <p className="mt-6 text-lg leading-8 text-gray-400"></p>
               <div className="mt-10 flex items-center justify-center gap-x-6 lg:justify-start">
@@ -19,10 +19,10 @@ export default function LandingBanner() {
                   className="btn secondary"
                   variant="secondary"
                   onClick={() => {
-                    push("/about");
+                    push("/services");
                   }}
                 >
-                  Explore about us
+                  Explore servics
                 </Button>
                 <Button
                   size="large"

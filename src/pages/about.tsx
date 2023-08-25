@@ -6,27 +6,6 @@ import { Button } from "react-carbonui";
 const aboutUs = () => {
   const { push } = useRouter();
 
-  const features = [
-    {
-      name: "Services In",
-      description:
-        " Jammu And Kashmir | Ladakh | Delhi |  Himachal Pradesh | Uttarakhand | Rajasthan | Punjab | Chandigarh | Amritsar Etc ",
-    },
-    {
-      name: "Culture of different places",
-      description:
-        "Without bothering with journey hassles. We arrange for company Tours, Excursions, Family & Friend trips and local, Airport Transfers, Outstation trips and also fixed contracts on Monthly/Yearly basis at reasonable rates.",
-    },
-    {
-      name: "Deal In",
-      description:
-        "Car Rental | Hotel Reservation | Kashmiri Packages | Golden Triangle Package ",
-    },
-    {
-      name: "Advanced security",
-      description: "Best package for shikara ride Kashmir Starting ",
-    },
-  ];
   return (
     <>
       <SubHeader title="About Us" />
@@ -36,13 +15,7 @@ const aboutUs = () => {
             <h1 className="mb-4 text-4xl font-extrabold tracking-tight leading-none text-white md:text-5xl lg:text-6xl">
               About Us
             </h1>
-            <p className="mb-8 text-lg font-normal text-gray-300 lg:text-xl sm:px-16 lg:px-48 lg:text-left">
-              Track work across the enterprise through an open, collaborative
-              platform. Link issues across Jira and ingest data from other
-              software development tools, so your IT support and operations
-              teams have richer contextual information to rapidly respond to
-              requests, incidents, and changes.
-            </p>
+            <p className="mb-8 text-lg font-normal text-gray-300 lg:text-xl sm:px-16 lg:px-48 lg:text-left"></p>
             <div className="flex flex-col space-y-4 sm:flex-row sm:justify-center sm:space-y-0 sm:space-x-4">
               <Button
                 variant="secondary"
@@ -59,7 +32,7 @@ const aboutUs = () => {
         </section>
       </div>
       <div className="p-6 mt-10 ">
-        <div className="grid grid-cols-2 md:grid-cols-4 gap-4 ">
+        {/* <div className="grid grid-cols-2 md:grid-cols-4 gap-4 ">
           <div className="grid gap-4">
             <div>
               <img
@@ -148,22 +121,15 @@ const aboutUs = () => {
               />
             </div>
           </div>
-        </div>
+        </div> */}
 
         <div className="bg-white py-24 sm:py-32  mt-5">
           <div className="mx-auto max-w-7xl px-6 lg:px-8">
             <div className="mx-auto max-w-1xl lg:text-center">
-              <p className="mt-2 text-2xl font-bold tracking-tight text-gray-700 sm:text-4xl lg:text-left">
-                Jammu And Kashmir Ladakh Delhi Himachal Pradesh Uttarakhand
-                Rajasthan Punjab Chandigarh Amritsar Etc
-              </p>
-              <p className="mt-6 text-lg leading-8 text-gray-400 lg:text-left">
-                Our ultimate tier membership gives you the best recovery
-                equipment in Port Saint Lucie. The hydromassage and Cryo chairs
-                alone are worth the becoming a member.
-              </p>
+              <p className="mt-2 text-2xl font-bold tracking-tight text-gray-700 sm:text-4xl lg:text-left"></p>
+              <p className="mt-6 text-lg leading-8 text-gray-400 lg:text-left"></p>
             </div>
-            <div className="mx-auto mt-16 max-w-2xl sm:mt-20 lg:mt-24 lg:max-w-4xl">
+            {/* <div className="mx-auto mt-16 max-w-2xl sm:mt-20 lg:mt-24 lg:max-w-4xl">
               <dl className="grid max-w-xl grid-cols-1 gap-x-8 gap-y-10 lg:max-w-none lg:grid-cols-2 lg:gap-y-16">
                 {features.map((feature) => (
                   <div
@@ -179,7 +145,7 @@ const aboutUs = () => {
                   </div>
                 ))}
               </dl>
-            </div>
+            </div> */}
           </div>
         </div>
       </div>
